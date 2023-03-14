@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "typescript": "^4.9.5"
+  },
+  "name": "typescript-i-exercicios",
+  "description": "ATENÇÃO! Não forke nem clone esse repositório. Ele serve apenas como enunciado!<br><br>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./build/index.js"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilareimberg/typescript-I-exercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilareimberg/typescript-I-exercicios/issues"
+  },
+  "homepage": "https://github.com/camilareimberg/typescript-I-exercicios#readme"
+}
